@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto My World
+            CryptoPJ
           </Typography>
           <Typography
             variant="subtitle2"
